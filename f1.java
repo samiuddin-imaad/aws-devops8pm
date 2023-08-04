@@ -26,6 +26,7 @@ public static void main(String[] args) {
 style="width:100%;max-width:960px"></div>
 <p>This is the first file in my new Git Repo.</p>
 <p> this is  the  new line added</p>
+<div></div>
 <div> <p> this is the block added just now </p></div>
 
 </body>

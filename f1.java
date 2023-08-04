@@ -25,7 +25,7 @@ public static void main(String[] args) {
 <div><img src="img_hello_world.jpg" alt="Hello World from Space"
 style="width:100%;max-width:960px"></div>
 <p>This is the first file in my new Git Repo.</p>
-
+<p> this is  the  new line added</p>
 <div> <p> this is the block added just now </p></div>
 
 </body>
